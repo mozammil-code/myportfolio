@@ -277,6 +277,10 @@ h1,h2,h3,h4,h5,h6,p{
   .profile-name{
     font-size: 65px;
   }
+  .responsive-display-heading-contact{
+    font-size: 80px;
+
+  }
 }
 @keyframes action {
   0% {
