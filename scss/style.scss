@@ -133,6 +133,18 @@ h6,
         padding: 10px 0;
     }
 }
+@media (max-width: 800px) {
+  .responsive-display-heading {
+    font-size: 90px;
+  }
+  .profile-name{
+    font-size: 65px;
+  }
+  .responsive-display-heading-contact{
+    font-size: 80px;
+
+  }
+}
 
 .typed-cursor {
     font-size: 45px;
